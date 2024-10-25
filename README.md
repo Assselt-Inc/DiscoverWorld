@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Discover Mini App is designed to help humans explore their local community by discovering nearby humans, events, and crypto merchants. The app provides a seamless experience for connecting people, places, and businesses based on geographical proximity. It is built with user privacy and engagement in mind, offering tailored recommendations and interactions based on preferences and location.
+The Discover Mini App is designed to help humans explore their local community by discovering nearby humans, events, and World Coin merchants. The app provides a seamless experience for connecting people, places, and businesses based on geographical proximity. It is built with user privacy and engagement in mind, offering tailored recommendations and interactions based on preferences and location.
 
 
 ## Features
