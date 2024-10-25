@@ -28,7 +28,16 @@ The Discover Mini App is designed to help humans explore their local community b
 - Advanced Features and Personalisation
 - Growth & Partnerships
 
-  
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/9YBRpGt/Explore-3.png)
+
+![App Screenshot](https://i.ibb.co/GMY1YLy/Onbording-3.png)
+
+![App Screenshot](https://i.ibb.co/hLrCFJv/Reserve-3-1.png)
+
+
+
 ## Acknowledgements
 
  - World Coin Humanness program.
